@@ -1,0 +1,22 @@
+.wrapper .content >.el-scrollbar>.el-scrollbar__wrap{
+  overflow-x: auto;
+}
+.wrapper .content >.el-scrollbar>.el-scrollbar__wrap .el-scrollbar__view{
+  padding: 25px;
+}
+.wrapper .content >.el-scrollbar{
+  height: 100%;
+}
+.el-table--scrollable-x .el-table__body-wrapper{
+  overflow: visible !important;
+}
+.el-table--scrollable-y .el-table__body-wrapper{
+  overflow: visible !important;
+}
+.el-table{
+  overflow: visible !important;
+}
+.el-table__header-wrapper{
+  overflow: visible !important;
+}
+
